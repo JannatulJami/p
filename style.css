@@ -1,0 +1,23 @@
+/* Insert any CSS code below here */
+
+body{
+  background-color:lavender;
+}
+
+h1{
+  background-color:#ffe2e6;
+  }
+h2{
+  background-color: lemonchiffon;
+  border-style: solid;
+  border-color: pink
+}
+ol, ul{
+  font-size:20px;
+}
+
+p{
+  background-color: #DEF3FD;
+  font-size:26px;
+  color:black;
+}
